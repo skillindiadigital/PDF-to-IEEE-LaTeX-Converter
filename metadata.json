@@ -1,0 +1,5 @@
+{
+  "name": "PDF to IEEE LaTeX Converter",
+  "description": "A tool to extract abstracts, titles, authors, and keywords from PDF files and convert them into strict IEEE single-column LaTeX format using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
